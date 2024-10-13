@@ -1,0 +1,27 @@
+#Exercicio 1
+#CRIE VARIAVEIS
+
+inteiro = 7
+print(inteiro)
+
+decimal = 5.78
+print(decimal)
+
+texto = "Olá isso é um Texto"
+print(texto)
+
+var = True
+print(var)
+var2 = False
+print(var2)
+
+#Exercicio 2
+#variaveis guarda
+
+nome = 'Vitor Ferreira'
+cpf = 37619812873
+estadoCivil = False
+
+print('Nome: ', nome)
+print('CPF: ', cpf)
+print('Casado ? ', estadoCivil)
